@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/progects/progect7/assert/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\main.cpp.obj -c D:\\progects\\progect7\\assert\\main.cpp",
+  "file": "D:\\progects\\progect7\\assert\\main.cpp",
+  "output": "CMakeFiles\\multifile.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/assert/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\def2.cpp.obj -c D:\\progects\\progect7\\assert\\def2.cpp",
+  "file": "D:\\progects\\progect7\\assert\\def2.cpp",
+  "output": "CMakeFiles\\multifile.dir\\def2.cpp.obj"
+}
+]

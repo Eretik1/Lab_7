@@ -1,0 +1,23 @@
+# ninja log v5
+3545	3610	7377167647351182	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	acf0a36a1a0d6796
+3545	3610	7377167647351182	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	acf0a36a1a0d6796
+2	72	7377165207505494	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	57900af32347ba28
+3352	3412	7377167645431874	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	8164afff502bf827
+3485	3544	7377167646711456	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	5448fb72924d77b8
+3610	3700	7377167648231247	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	4cd5543338517111
+3293	3352	7377167644792424	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8ba677c509e20046
+3	3210	7377167643353307	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip	51f064695e75174c
+3352	3412	7377167645431874	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	8164afff502bf827
+3	3210	7377167643353307	googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip	51f064695e75174c
+3212	3293	7377167644232344	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9261681b439ac25c
+3610	3700	7377167648231247	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	4cd5543338517111
+3412	3485	7377167646152290	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ceef9568e29841a9
+2	72	7377165207505494	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	57900af32347ba28
+3212	3293	7377167644232344	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9261681b439ac25c
+3412	3485	7377167646152290	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	ceef9568e29841a9
+3485	3544	7377167646711456	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	5448fb72924d77b8
+3	3210	7377167643353307	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	51f064695e75174c
+3293	3352	7377167644792424	D:/progects/progect7/Google Test/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8ba677c509e20046
+3610	3700	7377167648231247	CMakeFiles/googletest-populate-complete	4cd5543338517111
+3	3210	7377167643353307	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	51f064695e75174c
+3610	3700	7377167648231247	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	4cd5543338517111

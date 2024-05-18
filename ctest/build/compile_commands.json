@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/progects/progect7/ctest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/progects/progect7/ctest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_1.dir\\test_1.cpp.obj -c D:\\progects\\progect7\\ctest\\tests\\test_1.cpp",
+  "file": "D:\\progects\\progect7\\ctest\\tests\\test_1.cpp",
+  "output": "tests\\CMakeFiles\\test_1.dir\\test_1.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/ctest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/progects/progect7/ctest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o tests\\CMakeFiles\\test_1.dir\\__\\def2.cpp.obj -c D:\\progects\\progect7\\ctest\\def2.cpp",
+  "file": "D:\\progects\\progect7\\ctest\\def2.cpp",
+  "output": "tests\\CMakeFiles\\test_1.dir\\__\\def2.cpp.obj"
+}
+]

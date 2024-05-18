@@ -1,0 +1,5 @@
+D:/progects/progect7/assert/build/CMakeFiles/multifile.dir
+D:/progects/progect7/assert/build/CMakeFiles/package.dir
+D:/progects/progect7/assert/build/CMakeFiles/package_source.dir
+D:/progects/progect7/assert/build/CMakeFiles/edit_cache.dir
+D:/progects/progect7/assert/build/CMakeFiles/rebuild_cache.dir

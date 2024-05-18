@@ -1,0 +1,6 @@
+# ninja log v5
+2	138	7377398539031753	build.ninja	c864dc889251fa0d
+23	46	0	D:/progects/progect7/ctest/build/CMakeFiles/cmake.verify_globs	11ec5431f0abe3f6
+47	201	7377398541467497	tests/CMakeFiles/test_1.dir/test_1.cpp.obj	d02b0b2d0b99a6bc
+49	324	7377398542690607	tests/CMakeFiles/test_1.dir/__/def2.cpp.obj	764dbdc09561c4c1
+324	400	7377398543415495	tests/test_1.exe	c3fa94e013a02ff9

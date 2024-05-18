@@ -1,0 +1,11 @@
+# ninja log v5
+7	355	7377176231004419	gtests/CMakeFiles/tests.dir/__/def2.cpp.obj	26b4c5f9f014c6af
+9	1597	7377254667824691	gtests/CMakeFiles/tests.dir/test.cpp.obj	7f6c9f0622e7bfcb
+1598	1780	7377254669584350	gtests/tests.exe	91572b1fb0e66b15
+63	718	7377227236262433	gtests/CMakeFiles/tests.dir/__/def7.cpp.obj	d6007fa3becd8fcc
+30	584	7377234756746769	gtests/CMakeFiles/tests.dir/__/def6.cpp.obj	86b0fdbe6e9a7908
+39	723	7377227236262433	gtests/CMakeFiles/tests.dir/__/def1.cpp.obj	61f44fe47048bb69
+56	865	7377252154916369	gtests/CMakeFiles/tests.dir/__/def3.cpp.obj	5696b013bd8d1588
+35	869	7377234759545558	gtests/CMakeFiles/tests.dir/__/def8.cpp.obj	2f5d18a35cfa41d7
+22	874	7377234759625532	gtests/CMakeFiles/tests.dir/__/def4.cpp.obj	702658ae5f38374d
+26	1221	7377234763064041	gtests/CMakeFiles/tests.dir/__/def5.cpp.obj	36e0dd9015f7df28

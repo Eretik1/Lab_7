@@ -1,0 +1,11 @@
+D:/progects/progect7/Google Test/build/CMakeFiles/package.dir
+D:/progects/progect7/Google Test/build/CMakeFiles/package_source.dir
+D:/progects/progect7/Google Test/build/CMakeFiles/test.dir
+D:/progects/progect7/Google Test/build/CMakeFiles/edit_cache.dir
+D:/progects/progect7/Google Test/build/CMakeFiles/rebuild_cache.dir
+D:/progects/progect7/Google Test/build/gtests/CMakeFiles/tests.dir
+D:/progects/progect7/Google Test/build/gtests/CMakeFiles/package.dir
+D:/progects/progect7/Google Test/build/gtests/CMakeFiles/package_source.dir
+D:/progects/progect7/Google Test/build/gtests/CMakeFiles/test.dir
+D:/progects/progect7/Google Test/build/gtests/CMakeFiles/edit_cache.dir
+D:/progects/progect7/Google Test/build/gtests/CMakeFiles/rebuild_cache.dir

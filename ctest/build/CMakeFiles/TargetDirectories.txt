@@ -1,0 +1,7 @@
+D:/progects/progect7/ctest/build/CMakeFiles/test.dir
+D:/progects/progect7/ctest/build/CMakeFiles/edit_cache.dir
+D:/progects/progect7/ctest/build/CMakeFiles/rebuild_cache.dir
+D:/progects/progect7/ctest/build/tests/CMakeFiles/test_1.dir
+D:/progects/progect7/ctest/build/tests/CMakeFiles/test.dir
+D:/progects/progect7/ctest/build/tests/CMakeFiles/edit_cache.dir
+D:/progects/progect7/ctest/build/tests/CMakeFiles/rebuild_cache.dir

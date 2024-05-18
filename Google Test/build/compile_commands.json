@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/progects/progect7/Google Test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/progects/progect7/Google Test\" -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\test.cpp.obj -c \"D:\\progects\\progect7\\Google Test\\gtests\\test.cpp\"",
+  "file": "D:\\progects\\progect7\\Google Test\\gtests\\test.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\test.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/Google Test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/progects/progect7/Google Test\" -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\def1.cpp.obj -c \"D:\\progects\\progect7\\Google Test\\def1.cpp\"",
+  "file": "D:\\progects\\progect7\\Google Test\\def1.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\def1.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/Google Test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/progects/progect7/Google Test\" -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\def2.cpp.obj -c \"D:\\progects\\progect7\\Google Test\\def2.cpp\"",
+  "file": "D:\\progects\\progect7\\Google Test\\def2.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\def2.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/Google Test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/progects/progect7/Google Test\" -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\def3.cpp.obj -c \"D:\\progects\\progect7\\Google Test\\def3.cpp\"",
+  "file": "D:\\progects\\progect7\\Google Test\\def3.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\def3.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/Google Test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/progects/progect7/Google Test\" -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\def4.cpp.obj -c \"D:\\progects\\progect7\\Google Test\\def4.cpp\"",
+  "file": "D:\\progects\\progect7\\Google Test\\def4.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\def4.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/Google Test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/progects/progect7/Google Test\" -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\def5.cpp.obj -c \"D:\\progects\\progect7\\Google Test\\def5.cpp\"",
+  "file": "D:\\progects\\progect7\\Google Test\\def5.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\def5.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/Google Test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/progects/progect7/Google Test\" -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\def6.cpp.obj -c \"D:\\progects\\progect7\\Google Test\\def6.cpp\"",
+  "file": "D:\\progects\\progect7\\Google Test\\def6.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\def6.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/Google Test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/progects/progect7/Google Test\" -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\def7.cpp.obj -c \"D:\\progects\\progect7\\Google Test\\def7.cpp\"",
+  "file": "D:\\progects\\progect7\\Google Test\\def7.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\def7.cpp.obj"
+},
+{
+  "directory": "D:/progects/progect7/Google Test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/progects/progect7/Google Test\" -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\def8.cpp.obj -c \"D:\\progects\\progect7\\Google Test\\def8.cpp\"",
+  "file": "D:\\progects\\progect7\\Google Test\\def8.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\def8.cpp.obj"
+}
+]
